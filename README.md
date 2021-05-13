@@ -1,5 +1,5 @@
 # laminate_analysis
-First and Last Ply Failure Load of Laminate using Partial and Full Degradation
+First and Last Ply Failure Load of Laminate using Partial and Complete Degradation
 
 ## Lamina Class:
     Stores geometric, elastic, strength, hygrothermal properties of the lamina.
